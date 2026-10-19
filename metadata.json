@@ -1,0 +1,6 @@
+{
+  "name": "Saxe – AI Exam Marker",
+  "description": "AI-powered exam and handwritten quiz marker for teachers in Somaliland. Photographs handwritten answer sheets, recognizes handwriting, marks against schemes, and provides feedback in Somali or English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
