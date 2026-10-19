@@ -12,7 +12,7 @@ Saxe ("correct" in Somali) is an AI exam marker for teachers. A teacher photogra
 
 > Hosted on Render's free tier, so the first load can take up to a minute while the server wakes up.
 
-![Teacher review screen](screenshots/3-teacher-review.png)
+![Teacher review screen](3-teacher-review.png)
 
 ---
 
@@ -129,13 +129,13 @@ The app needs a running Node server (the AI calls are made server-side), so it i
 
 | Upload an answer sheet | AI marking in progress |
 |---|---|
-| ![Upload](screenshots/1-scan-upload.png) | ![AI marking](screenshots/2-ai-marking.png) |
+| ![Upload](1-scan-upload.png) | ![AI marking](2-ai-marking.png) |
 
 | Teacher review and override | Approved student result |
 |---|---|
-| ![Review](screenshots/3-teacher-review.png) | ![Result](screenshots/4-student-result.png) |
+| ![Review](3-teacher-review.png) | ![Result](4-student-result.png) |
 
-![Marking schemes](screenshots/5-marking-schemes.png)
+![Marking schemes](5-marking-schemes.png)
 
 ## Future plans
 
