@@ -362,7 +362,7 @@ async function startServer() {
   if (process.env.NODE_ENV === 'production') {
     app.use(express.static('dist'));
     app.get('*', (req: Request, res: Response) => {
-      res.sendFile(path.resolve(__dirname, 'dist', 'index.html'));
+      res.sendFile(path.resolve('dist', 'index.html'));
     });
   } else {
     const vite = await createViteServer({
