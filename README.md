@@ -7,7 +7,7 @@ Saxe ("correct" in Somali) is an AI exam marker for teachers. A teacher photogra
 | | |
 |---|---|
 | **Live demo** | https://ai-marking-exam.onrender.com |
-| **Demo video** | [add your YouTube / Drive link] |
+| **Demo video** | [https://www.youtube.com/watch?v=cTu5MD6qZR8] |
 | **Built by** | Mohamed Weli Jama (Mohaan) |
 
 > Hosted on Render's free tier, so the first load can take up to a minute while the server wakes up.
@@ -17,8 +17,7 @@ Saxe ("correct" in Somali) is an AI exam marker for teachers. A teacher photogra
 ---
 
 ## Problem
-
-In Somaliland, teachers mark every exam and quiz by hand.
+ teachers mark every exam and quiz by hand.
 
 - **Teachers are overloaded.** Many teach several classes and give private tuition, so marking takes their evenings.
 - **Feedback is thin.** Under time pressure, students get a tick, a cross and a score. They learn *that* they were wrong, not *why*.
